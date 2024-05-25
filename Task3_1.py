@@ -1,4 +1,5 @@
-
+# Lesson 3: Python Sets
+# 1. Python Sets Adventure
 
 our_routes = {"LAX", "JFK", "CDG", "DXB"}
 competitor_routes = {"JFK", "CDG", "LHR", "BKK"}
